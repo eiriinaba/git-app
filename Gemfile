@@ -76,3 +76,4 @@ gem 'pry-rails'
 
 gem 'devise'
 
+gem "faker"
