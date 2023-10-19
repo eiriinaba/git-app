@@ -76,3 +76,4 @@ gem 'pry-rails'
 
 gem 'devise'
 
+gem "mini_magick"
