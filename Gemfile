@@ -76,4 +76,8 @@ gem 'pry-rails'
 
 gem 'devise'
 
+
+gem "faker"
+
 gem "mini_magick"
+
